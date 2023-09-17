@@ -1,0 +1,73 @@
+body {
+
+    padding: 0;
+    margin: 0;
+    background-color: white;
+    height: auto;
+
+}
+
+.main {
+    display: flex;
+    width: 100%;
+    
+
+}
+
+
+.LeftMain > h1{
+    color: #FFF;
+font-family: Poppins;
+font-size: 24px;
+font-style: normal;
+font-weight: 700;
+line-height: 122.687%; /* 29.445px */
+letter-spacing: 0.36px;
+margin-top: -1000px;
+margin-left: 20px
+}
+
+
+
+.LeftMain > h3{
+    color: white;
+font-family: Poppins;
+font-size: 45px;
+font-weight: 700;
+line-height: 122.687%; /* 29.445px */
+letter-spacing: 0.36px;
+text-align: center;
+margin-top: 290px;
+margin-left: -80px;
+}
+
+
+.RightMain{
+    width: 50%;
+}
+
+
+.RightMain h1{
+    margin-left: 80px;
+    margin-top: 220px;
+}
+.RightMain p{
+    margin-left: 80px;
+}
+
+
+.logos{
+
+
+    color: white;
+    margin-top: 220px;
+    gap: 30px;
+    margin-left: -130px;
+    justify-content: center;
+    display: flex;
+   
+}
+
+.logos h1 {
+    size: 50px;
+}
